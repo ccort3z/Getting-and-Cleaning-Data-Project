@@ -1,4 +1,3 @@
-# This script...
 
 # Download the file and put it in the data folder.
 if(!file.exists("./data")){dir.create("./data")}
