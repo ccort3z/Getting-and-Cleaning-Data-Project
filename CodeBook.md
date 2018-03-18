@@ -1,5 +1,5 @@
 ## Code Book
-This code book describes the data used in this project and the processing to create the resulting tidy data set.
+This code book describes the data used in this project for the resulting tidy data set.
 
 ### Files used
 
