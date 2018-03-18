@@ -1,4 +1,4 @@
-# Getting-and-Cleaning-Data-Project
+# Getting and Cleaning Data Project
 The goal is to prepare tidy data that can be used for later analysis. 
 The R script 'run_analysis.R' does the following:
 1. Merges the training and the test sets to create one data set.
